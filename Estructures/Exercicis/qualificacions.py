@@ -6,7 +6,7 @@ import sys
 """
 qualificacions.py demana noms de mòduls i nota. Al final calcula nota mitja de cicle.
 """
-author   = "Xavi Quesada"
+author   = "Muhammad Zain Khalil"
  
 def main():
    """
